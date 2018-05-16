@@ -1,0 +1,79 @@
+/*
+Kelsey Padilla
+April 25, 2018
+Girls Develop It
+*/
+
+* {
+
+}
+
+*{ 
+	margin: 0;
+	padding:0;
+}
+
+body { 
+	width: 95%;
+	margin: auto;
+	font-family: sans-serif; 
+	background-color: beige;
+	color: black;
+}
+
+header { 
+	text-align: center;
+	border-bottom: 2px solid black;
+	font-size: 150%;
+	padding:2px;
+	margin:2px;
+}
+
+
+main {	
+	font-family: "Times New Roman";
+	font-size: 87.5%;
+} 
+
+h2 {
+	
+	font-family: "Times New Roman";
+	font-size: 150%;
+	padding:3px;
+	margin:3px;
+}
+
+p{ font-family: "Times New Roman";
+	font-size: 110%;
+	padding:3px;
+	margin:3px;
+}
+
+figure {
+	float: left;
+	border: 2px dashed black;
+	padding:2px;
+	margin:15px;
+}
+
+.horizontal {
+	border: 2px solid black;
+	height: 200px;
+	width:225px;
+	padding:2px;
+	margin:2px;
+	
+}
+
+footer{
+	border-top: 2px solid black;
+	font-size: 50%;
+	padding:2px;
+	margin:2px;
+}
+
+h3{
+	Text-align: right;
+}
+
+
